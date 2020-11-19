@@ -31,7 +31,7 @@ A little more about me... with npm installed, just type
 ```
 npx garimasingh
 ```
-<img src="Screenshot.png" height="400" width="600"></img>
+<img src="https://github.com/garimasingh128/garimasingh-NPM-card/blob/main/Screenshot.png" height="400" width="800"></img>
 
 ## ✨ Skills
 
