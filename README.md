@@ -11,12 +11,12 @@ Link: https://www.npmjs.com/package/garimasingh
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
 ![Maintained](https://img.shields.io/maintenance/yes/2020)
-![Last Commit](https://img.shields.io/github/last-commit/garimaisngh128/garimasingh)
-![Release Date](https://img.shields.io/github/release-date/garimaisngh128/garimasingh)
-![Issues](https://img.shields.io/github/issues/garimaisngh128/garimasingh)
-![Stars GitHub](https://img.shields.io/github/stars/garimaisngh128/garimasingh)
-![Language](https://img.shields.io/github/languages/top/garimaisngh128/garimasingh)
-![Size](https://img.shields.io/github/repo-size/garimaisngh128/garimasingh)
+![Last Commit](https://img.shields.io/github/last-commit/garimasingh128/garimasingh-NPM-card)
+![Release Date](https://img.shields.io/github/release-date/garimasingh128/garimasingh-NPM-card)
+![Issues](https://img.shields.io/github/issues/garimasingh128/garimasingh-NPM-card)
+![Stars GitHub](https://img.shields.io/github/stars/garimasingh128/garimasingh-NPM-card)
+![Language](https://img.shields.io/github/languages/top/garimasingh128/garimasingh-NPM-card)
+![Size](https://img.shields.io/github/repo-size/garimasingh128/garimasingh-NPM-card)
 
 
 
