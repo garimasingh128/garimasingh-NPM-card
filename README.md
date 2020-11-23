@@ -1,6 +1,7 @@
 # 👣 My NPM card 😉 
 
 Link: https://www.npmjs.com/package/garimasingh
+![garimasingh-NPM-card](https://socialify.git.ci/garimasingh128/garimasingh-NPM-card/image?description=1&font=Rokkitt&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
 ## ✨ Introduction
 <h2>It's me, @garimasingh128!</h2>
 <p><em>BTech, Computer Science Junior at National Institute of Technology, Patna</br>
